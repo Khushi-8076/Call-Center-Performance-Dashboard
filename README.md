@@ -9,6 +9,10 @@ The dashboard is built using a summary sheet as the base and visualized
 through charts and pivot tables.
 
 ---
+## 📸 Dashboard Preview
+![Call Center Dashboard](dashboard.png)
+
+---
 
 ## 🧩 Key Features
 - 📈 Employee Working Hours Analysis
