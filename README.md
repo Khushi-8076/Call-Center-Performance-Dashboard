@@ -10,6 +10,8 @@ through charts and pivot tables.
 
 ---
 ## 📸 Dashboard Preview
+The dashboard below highlights employee working hours,
+customer engagement percentage, and overall performance metrics.
 ![Call Center Dashboard](dashboard.png)
 
 ---
